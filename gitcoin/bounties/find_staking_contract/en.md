@@ -1,5 +1,7 @@
 # Request for an ethereum staking Smart Contract that meets the requirements
 
+You need to state your competence in your work plan.
+
 ### Reward
 
 100 DAI
@@ -12,7 +14,7 @@ Recommend an ethereum staking Smart Contract Or a staking system consisting of s
 
 2. Link of the contract's Github source code repository.
 
-3. The description of the contract is able to show that it does meet the requirements.
+3. The Simple introduction of the contract is able to show that it does meet the requirements.
 
 ### The requirements for your submission must:
 
