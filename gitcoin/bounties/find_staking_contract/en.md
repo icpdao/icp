@@ -1,6 +1,6 @@
 # Request for an ethereum staking Smart Contract that meets the requirements
 
-you need to show your ability in your work plan 
+You need to state your competence in your work plan.
 
 ### Reward
 
