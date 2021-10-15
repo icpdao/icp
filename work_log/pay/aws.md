@@ -8,3 +8,8 @@
 
 ### aws 2021-08 账单 
 [aws08.pdf](https://github.com/icpdao/icp/files/7167398/aws08.pdf)
+
+
+### aws 2021-09 账单
+[aws09.pdf](https://github.com/icpdao/icp/files/7351274/aws09.pdf)
+
